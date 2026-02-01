@@ -1,0 +1,1 @@
+//enter marks of a student and check pass or fail 
