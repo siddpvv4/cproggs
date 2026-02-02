@@ -1,0 +1,1 @@
+//switch case program to find the day of the week
